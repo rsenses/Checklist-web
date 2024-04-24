@@ -15,7 +15,7 @@ npm install
 npx slidev
 ```
 
-Esto iniciará un servidor local al que se puede acceder, normalmente, mediante la dirección `http://localhost:3030`.
+Esto iniciará un servidor local al que se puede acceder, normalmente, mediante la dirección [http://localhost:3030](http://localhost:3030).
 
 Se puede compilar para producción con el comando:
 

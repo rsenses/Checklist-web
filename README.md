@@ -29,4 +29,4 @@ Hay una versión disponible en los servidores de Cloudflare Pages en la direcci�
 
 ## Documentación Extendida
 
-La documentación extendida se encuentra en el archivo [Extended.md](Extended.md).
+Las notas de la presentación se encuentra en el archivo [notas.md](notas.md).

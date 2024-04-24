@@ -27,6 +27,8 @@ Esto genera una carpeta `dist` con los archivos necesarios para subir a un servi
 
 Hay una versión disponible en los servidores de Cloudflare Pages en la dirección [https://checklist-web.pages.dev/](https://checklist-web.pages.dev/1).
 
+También se puede acceder a la presentación en formato testo en el archivo [slides.md](slides.md) y en formato PDF en el archivo [slides-export.pdf](slides-export.pdf).
+
 ## Documentación Extendida
 
 Las notas de la presentación se encuentra en el archivo [notas.md](notas.md).
